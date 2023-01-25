@@ -16,7 +16,7 @@ Introducing GoVersion, the ultimate WordPress version checking tool written in G
 
 ## Installation
 
-Dillinger requires [Golang](https://go.dev/) to run.
+GoVersion requires [Golang](https://go.dev/) to run.
 
 To Build
 ```sh
